@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { VictoryPie, VictoryLabel } from 'victory';
 import { useGlobalState } from '../context/globalState';
 

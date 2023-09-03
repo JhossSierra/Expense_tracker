@@ -1,7 +1,7 @@
 import './App.css'
 import Balance from './components/Balance'
 import ExpenseChart from './components/ExpenseChart'
-import Header from './components/Header'
+
 import IncomeExpenses from './components/IncomeExpenses'
 import TransactionForm from './components/transactions/TransactionForm'
 import TransactionsList from './components/transactions/TransactionsList'
